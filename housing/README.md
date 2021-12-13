@@ -1,6 +1,6 @@
 # About
 
-These files are for machine learning model training. By using Jupyter NOtebook, it was a lot easier to quickly see what was happening with the training set and predictions.
+These files are for machine learning model training. By using Jupyter Notebook, it was a lot easier to quickly see what was happening with the training set and predictions.
 
 # Running the Program
 

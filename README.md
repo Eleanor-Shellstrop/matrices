@@ -6,6 +6,8 @@ by Anne Ensign
 
 This repo is for me to play with some concepts I've been learning with Machine Learning, specifically matrices.
 
+I'd like to credit Dr. Andrew Ng's course, [Machine Learning](https://www.coursera.org/learn/machine-learning), from Standford University taught through Coursera. As I learn the material from his course, I have been seeking ways to impliment the lessons through Python, Scikit-Learn and Matplotlib, which is why I created this repo. 
+
 ## Running the Programs
 
 Unless otherwise stated, all that's needed to run the files will be Python. 
